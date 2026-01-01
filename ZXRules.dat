@@ -21564,15 +21564,15 @@
                         <Simple value="0" />
                         <Simple value="0" />
                         <Simple value="1" />
-                        <Simple value="3;4" />
+                        <Simple value="3; 4;" />
                         <Simple value="0,5" />
-                        <Simple value="3;4" />
+                        <Simple value="3; 4;" />
                         <Simple value="8" />
-                        <Simple value="2;3" />
-                        <Simple value="2;3" />
-                        <Simple value="2;3" />
+                        <Simple value="2; 3;" />
+                        <Simple value="2; 3;" />
+                        <Simple value="2; 3;" />
                         <Simple value="0,8" />
-                        <Simple value="1;2" />
+                        <Simple value="1; 2;" />
                         <Simple value="34" />
                         <Simple value="58" />
                         <Simple value="82" />
@@ -21615,15 +21615,15 @@
                         <Simple value="1" />
                         <Simple value="1" />
                         <Simple value="1" />
-                        <Simple value="5;7" />
+                        <Simple value="5; 7;" />
                         <Simple value="0,8" />
-                        <Simple value="3;4" />
+                        <Simple value="3; 4;" />
                         <Simple value="12" />
-                        <Simple value="2;3" />
-                        <Simple value="2;3" />
-                        <Simple value="2;3" />
+                        <Simple value="2; 3;" />
+                        <Simple value="2; 3;" />
+                        <Simple value="2; 3;" />
                         <Simple value="1" />
-                        <Simple value="1;2" />
+                        <Simple value="1; 2;" />
                         <Simple value="34" />
                         <Simple value="52" />
                         <Simple value="70" />
@@ -21666,15 +21666,15 @@
                         <Simple value="1" />
                         <Simple value="1" />
                         <Simple value="4" />
-                        <Simple value="7;10" />
+                        <Simple value="7; 10;" />
                         <Simple value="1" />
-                        <Simple value="4;5" />
+                        <Simple value="4; 5;" />
                         <Simple value="24" />
-                        <Simple value="2;3" />
-                        <Simple value="2;3" />
-                        <Simple value="1;2" />
+                        <Simple value="2; 3;" />
+                        <Simple value="2; 3;" />
+                        <Simple value="1; 2;" />
                         <Simple value="1,15" />
-                        <Simple value="1;2" />
+                        <Simple value="1; 2;" />
                         <Simple value="32" />
                         <Simple value="50" />
                         <Simple value="68" />
@@ -21717,22 +21717,22 @@
                         <Simple value="1" />
                         <Simple value="2" />
                         <Simple value="2" />
-                        <Simple value="7;10" />
+                        <Simple value="7; 10;" />
                         <Simple value="1" />
-                        <Simple value="3;4" />
+                        <Simple value="3; 4;" />
                         <Simple value="0" />
-                        <Simple value="3;4" />
-                        <Simple value="5;6" />
-                        <Simple value="1;2" />
+                        <Simple value="3; 4;" />
+                        <Simple value="5; 6;" />
+                        <Simple value="1; 2;" />
                         <Simple value="1,35" />
-                        <Simple value="1;2" />
+                        <Simple value="1; 2;" />
                         <Simple value="30" />
                         <Simple value="48" />
                         <Simple value="66" />
                         <Simple value="86" />
                         <Simple value="0,4" />
                         <Simple value="0,035" />
-                        <Simple value="Building EnergyNeeded * 1,3; &#xA;Zombie ActivityAwarenessFactor * 0,5;&#xA;Unit RunSpeed * 0,8;" />
+                        <Simple value="Building EnergyNeeded * 1,3; &amp;#xA;Zombie ActivityAwarenessFactor * 0,5;&amp;#xA;Unit RunSpeed * 0,8;" />
                         <Simple value="0,8" />
                         <Simple value="0,3" />
                         <Simple value="1" />
@@ -21768,22 +21768,22 @@
                         <Simple value="1" />
                         <Simple value="3" />
                         <Simple value="3" />
-                        <Simple value="8;10" />
+                        <Simple value="8; 10;" />
                         <Simple value="1" />
-                        <Simple value="5;6" />
+                        <Simple value="5; 6;" />
                         <Simple value="40" />
-                        <Simple value="4;5" />
-                        <Simple value="1;2" />
-                        <Simple value="5;6" />
+                        <Simple value="4; 5;" />
+                        <Simple value="1; 2;" />
+                        <Simple value="5; 6;" />
                         <Simple value="1,55" />
-                        <Simple value="2;3" />
+                        <Simple value="2; 3;" />
                         <Simple value="28" />
                         <Simple value="46" />
                         <Simple value="64" />
                         <Simple value="82" />
                         <Simple value="0,42" />
                         <Simple value="0,035" />
-                        <Simple value="Zombie ActivityAwarenessFactor * 1,3;&#xA;ZXEntity WatchRange * 1,1;" />
+                        <Simple value="Zombie ActivityAwarenessFactor * 1,3;&amp;#xA;ZXEntity WatchRange * 1,1;" />
                         <Simple value="0,75" />
                         <Simple value="1" />
                         <Simple value="5" />
@@ -21821,13 +21821,13 @@
                         <Simple value="1" />
                         <Simple value="22" />
                         <Simple value="1,5" />
-                        <Simple value="3;4" />
+                        <Simple value="3; 4;" />
                         <Simple value="12" />
-                        <Simple value="2;3" />
-                        <Simple value="2;3" />
-                        <Simple value="2;3" />
+                        <Simple value="2; 3;" />
+                        <Simple value="2; 3;" />
+                        <Simple value="2; 3;" />
                         <Simple value="1,75" />
-                        <Simple value="2;3" />
+                        <Simple value="2; 3;" />
                         <Simple value="24" />
                         <Simple value="36" />
                         <Simple value="52" />
@@ -21997,7 +21997,7 @@
                         <Null />
                         <Null />
                         <Null />
-                        <Simple value="WallWood(10); GateWood(1)" />
+                        <Simple value="WallWood(10);  GateWood(1);" />
                         <Null />
                       </Items>
                     </SingleArray>
@@ -22198,7 +22198,7 @@
                         <Null />
                         <Null />
                         <Null />
-                        <Simple value="CommandCenter FoodSupply +10; CommandCenter GoldGen +10" />
+                        <Simple value="CommandCenter FoodSupply +10;  CommandCenter GoldGen +10;" />
                       </Items>
                     </SingleArray>
                   </Item>
@@ -22598,7 +22598,7 @@
                         <Null />
                         <Null />
                         <Null />
-                        <Simple value="MillWood EnergySupply +20%; MillIron EnergySupply +20%" />
+                        <Simple value="MillWood EnergySupply +20%;  MillIron EnergySupply +20%;" />
                       </Items>
                     </SingleArray>
                   </Item>
@@ -22697,7 +22697,7 @@
                         <Null />
                         <Null />
                         <Null />
-                        <Simple value="WallStone(10); GateStone(1)" />
+                        <Simple value="WallStone(10);  GateStone(1);" />
                         <Null />
                       </Items>
                     </SingleArray>
@@ -24377,7 +24377,7 @@
                         <Null />
                         <Null />
                         <Null />
-                        <Simple value="WallStone(20); GateStone(2)" />
+                        <Simple value="WallStone(20);  GateStone(2);" />
                         <Null />
                       </Items>
                     </SingleArray>
